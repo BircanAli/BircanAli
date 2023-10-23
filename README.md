@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Birdzhan Ali</h1>
 <h3 align="center">My path is to Full Stack.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bircanali&label=Profile%20views&color=0e75b6&style=flat" alt="bircanali" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://birdzhanaliprofile.netlify.app/](https://birdzhanaliprofile.netlify.app/)
 
